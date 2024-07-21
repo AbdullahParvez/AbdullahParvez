@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ammparvez@gmail.com**
 
-- ⚡ Fun fact **I like to play in my free time. Currently, I play badminton in my free time. I'm also learning to swim.**
+- ⚡ Fun fact **I like to do other physical activities like sports, exercise, etc. besides coding. I play badminton, swim, cycle, etc. in my free time. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
