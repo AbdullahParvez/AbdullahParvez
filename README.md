@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Bengali is my native language. I'm fluent in English and Japanese. Currently, I'm learning Arabic. **
 
 - ⚡ Fun fact **I like to do other physical activities like sports, exercise, etc. besides coding. I play badminton, swim, cycle, etc. in my free time. **
-
+<div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ammparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammparvez" height="30" width="40" /></a>
@@ -63,8 +63,8 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
          <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahparvez&show_icons=true&locale=en&layout=compact" alt="abdullahparvez" />
+</div>
+<img align="right" style="position:sticky;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahparvez&show_icons=true&locale=en&layout=compact" alt="abdullahparvez" />
 
 
 
