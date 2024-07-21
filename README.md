@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ammparvez@gmail.com**
 
+- ⚡ Fun fact **Bengali is my native language. I'm fluent in English and Japanese. Currently, I'm learning Arabic. **
+
 - ⚡ Fun fact **I like to do other physical activities like sports, exercise, etc. besides coding. I play badminton, swim, cycle, etc. in my free time. **
 
 <h3 align="left">Connect with me:</h3>
